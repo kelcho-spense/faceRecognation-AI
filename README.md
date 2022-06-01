@@ -4,4 +4,5 @@
 - Realtime JavaScript Face Tracking and Face Recognition using face-api.js’ MTCNN Face Detector
 - Face Expression Recognition ie sad,surprised,disgusted,fearful,sad,angry,happy
 - Face Landmark Detection
-- Realtime Face Tracking
+- Realtime Face Tracking </br>
+# [for livepreview click here](https://face-recognation-ai.vercel.app/)
